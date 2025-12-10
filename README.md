@@ -4,7 +4,6 @@
 Aplicação web desenvolvida em **React + Vite** para explorar filmes, visualizar detalhes e praticar conceitos modernos de front-end.  
 Este projeto é parte do teu portfólio e demonstra habilidades em **componentização**, **Context API**, **React Router** e consumo de APIs externas.
 
----
 
 ## 🚀 Tecnologias
 - ⚛️ [React](https://react.dev/) — Biblioteca principal para UI
@@ -14,7 +13,7 @@ Este projeto é parte do teu portfólio e demonstra habilidades em **componentiz
 - 🎨 CSS Modules / Tailwind (dependendo da tua escolha)
 - 🧹 ESLint — Padronização de código
 
----
+
 
 ## 📦 Instalação
 
